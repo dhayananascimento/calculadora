@@ -26,21 +26,22 @@ form {
     border: none;
     margin-bottom: 5px;
     background-color: #fff;
+    padding: 10px;
 }
 
-.button, .strech {
+.button, .stretch {
     height: 50px;
     border: none;
     cursor: pointer;
     background-color: #fff;
 }
 
-.button:hover, .strech:hover {
+.button:hover, .stretch:hover {
     background-color: #eee;
     border: 1px solid #fff;
 }
 
-.strech {
+.stretch {
     width: 100%;
 }
 
