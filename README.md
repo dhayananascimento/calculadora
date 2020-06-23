@@ -12,6 +12,6 @@ Este é um simples projeto com a finalidade de treinar habilidades relativa as l
 ## Executar
 **Para executar este projeto na sua máquina, siga as instruções:**
 * execute o seguinte comando no seu terminal: 
-> $ git clone https://github.com/dhayananascimento/calculadora.git
+```$ git clone https://github.com/dhayananascimento/calculadora.git```
 * abra a pasta que será  criada
 * abra o arquivo "index.html" com o navegador de sua preferência
